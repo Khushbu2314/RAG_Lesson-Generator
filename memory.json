@@ -1,0 +1,17 @@
+{
+    "total_runs": 15,
+    "passed_runs": 13,
+    "failed_attempts": 4,
+    "failure_patterns": {
+        "Key topic coverage": {
+            "count": 4,
+            "last_reason": "The requested topic \"njekdnjlved\" is gibberish and not addressed in the lesson. The lesson covers computers, not the requested topic.",
+            "suggestion": "Clarify the intended topic or provide a lesson that directly addresses the requested subject. If the topic is indeed a placeholder, replace it with the correct term."
+        },
+        "Accuracy and grounding": {
+            "count": 1,
+            "last_reason": "The lesson claims that \"njekdnjlved\" is a real device that uses sunlight to generate electricity, but there is no evidence or reference to such a device. The explanation of solar cells is correct, but the central claim about the device is unsupported and potentially misleading.",
+            "suggestion": "Provide verifiable sources or clarify that \"njekdnjlved\" is a hypothetical example. If it is a fictional device, state that explicitly."
+        }
+    }
+}
